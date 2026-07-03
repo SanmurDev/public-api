@@ -12,12 +12,11 @@ este es un texto `resaltado`
 _italic_
 
 
-
 ```yaml
 test: 123
 list:
-   - name: abc
-     num: 456
+  - name: abc
+    num: 456
 ```
 
 ```sh
@@ -27,6 +26,5 @@ curl localhost
 ```
 
 # titulo 2
-
-Sandy Murillo Vásquez
+carlos chacon calvo
 Integración y despliegue continuo
